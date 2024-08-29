@@ -13,4 +13,6 @@ Dieses Projekt verwendet Hand-Tracking-Technologie zur Erkennung und Zählung de
    git clone git@github.com:dein-username/FingerTracking.git
    cd FingerTracking
 2. **Abhängigkeiten installieren:**
+
+   ```bash
    pip install opencv-python mediapipe
