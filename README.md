@@ -29,7 +29,7 @@ Dieses Projekt verwendet Hand-Tracking-Technologie zur Erkennung und Zählung de
    ```bash
    Kamera: Das Skript verwendet die Kamera deines Computers, um ein Live-Feed anzuzeigen.
    Handverfolgung: HandTrackingModule.py nutzt Mediapipe, um Hände im Bild zu erkennen.
-   Fingerzählung: Die Anzahl der Finger wird im Terminal angezeigt und auf dem Bildschirm überlagert.
+   Fingerzählung: Die Anzahl der Finger wird im Terminal angezeigt.
 
 3. **Fehlerbehebung:**
    ```bash
